@@ -6,7 +6,8 @@ Our client Steve wanted our team to analyze his dataset. The client wants to exp
 ### Project Overview ### 
 The first thing we did for Steve was create a "ticket index" variable and it to equal zero before iterating over all the rows. We used the Tickerindex to access four different arrays. These output arrays: "tickerVolumes, tickerStartingPrices, and tickerEnding Prices. The Data being reviewed and compared for Steve is categorized into single data type(s)
 
- ![alt text](link)
+ ![alt text](https://github.com/Ev9784/Stock-Analysis/blob/main/VBA%20Section%20One%20Of%20Updated%20Script.PNG?raw=true)
+ ![alt text](https://github.com/Ev9784/Stock-Analysis/blob/main/VBA%20Section%20TwoOf%20Updated%20Script.PNG?raw=true)
 
 ### *Stock Analysis Tickers and Results* 
 Once we were able to identify the growth opportunities (the outcomes per year for Steve's 2017 and 2018) and put them into single data types(s). Here is an example of the (12) tickers as a string
@@ -55,11 +56,16 @@ This step was set to = 0 to analyze all data in Steve's business spreadsheet.
 ### Stock Performance for 2017 & 2018
  Once we have increased the overall performance of the data set, we can compare the performance between the years. The least positive outcome was 2018, as the Data quickly showed us the most negligible stock outcomes. We were also able to locate outliers. These stocks performed "well" for both years or consistently bad stock(s) that year after in the red.
 
-Example of outcome for 2018
- ![alt text](link)
+## Example of outcome for 2018
 
-Example of outcome for 2017
-![alt text](link)
+ ![alt text](https://github.com/Ev9784/Stock-Analysis/blob/main/VBA%20Challenge%202018.PNG?raw=true)
+ ![alt text](https://user-images.githubusercontent.com/101474807/161405408-de1db2e5-af49-4dab-b868-cb82579b255d.png)
+
+
+## Example of outcome for 2017
+
+![alt text](https://github.com/Ev9784/Stock-Analysis/blob/main/VBA%20Challenge%202017.PNG?raw=true)
+![alt text](https://github.com/Ev9784/Stock-Analysis/blob/main/Steve%202017_Prompt.PNG?raw=true)
 
 ## Summary 
 
